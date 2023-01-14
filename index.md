@@ -1,1 +1,2 @@
-Hi, this is my first CSE lab
+Hi, this is my first CSE lab.
+Welcome to this page. 
